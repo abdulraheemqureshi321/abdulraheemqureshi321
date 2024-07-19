@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Raheem</h1>
 <h3 align="center">A passionate flutter frontend developer from Pakistan</h3>
 
-<img align="right" alt="coding"with="400" src = "[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OIUet1dRnEI3NPUYZXhOqmhh7d4_jM2J5Q&s](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OIUet1dRnEI3NPUYZXhOqmhh7d4_jM2J5Q&s)"
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulraheemqureshi321&label=Profile%20views&color=0e75b6&style=flat" alt="abdulraheemqureshi321" /> </p>
 
 - 🔭 I’m currently working on mobile application **Empowered Dating**
